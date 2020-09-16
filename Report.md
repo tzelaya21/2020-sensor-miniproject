@@ -20,7 +20,7 @@ Then data was saved in the following format
 ![code snippet](5.png)
 ## Task 2
 For the first three questions of task 2, the room **Lab1** was selected. Answer to all the four questions of task2 were obtained using the code provided in **Task2.py**
-![Solution to Q1, Q2 & Q3(Temperature Graph)](7.png)
+![Solution to Q1, Q2 & Q3(Temperature Graph)](7.jpg)
 ![Q3(CO2 Graph)](8.png)
 ![Q3(Occupancy Graph)](9.png)
 ![Solution to Q4)](10.png)
